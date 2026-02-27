@@ -16,7 +16,7 @@ st.markdown("""Géomaticienne passionée par la géographie et les systèmes d'i
 """)
 #==================================================
 
-st.write("COMPETENCES")
+st.title("COMPETENCES")
 
 st.markdown("""Maitrise en cartographie 
 avec QGIS,ARCMAP""")
@@ -32,7 +32,7 @@ st.markdown("""maitrise d'Autocad et
 #====================================================
 
 
-st.write("FORMATION")
+st.title("FORMATION")
 
 
 st.write("Brevet de technicien supérieur")
@@ -42,7 +42,7 @@ st.write("Baccalauréat")
 #===========================================================
 #========================================================================================
 
-st.write("DIVERS")
+st.title("DIVERS")
 
 st.markdown("""Approfondir la recherche sur les collctes et l'analyse de donnéés mais également en
 Conception de plans Architecturaux
